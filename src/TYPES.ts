@@ -1,4 +1,4 @@
-export const Types = Object.freeze({
+export const TYPES = Object.freeze({
     AppSettings: 'AppSettings',
     WebSettings: 'WebSettings',
     MachineSettings: 'MachineSettings',
