@@ -1,6 +1,6 @@
 {
     "name": "azimuth-types",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "ztrank",
     "repository": "https://github.com/ztrank/azimuth-types.git",
     "importName": "Bindings",
